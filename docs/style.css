@@ -1,0 +1,14 @@
+@charset "utf-8";
+* {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+table, th, td {
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF; 
+}
+th {
+	background-color: #440000;
+}
